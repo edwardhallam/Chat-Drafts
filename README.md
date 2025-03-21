@@ -1,6 +1,6 @@
 # Chat Drafts
 
-A minimalist iOS app for quickly composing and sharing text drafts. Perfect for composing lengthy messages in a safe space, away from typing indicators.
+A minimalist iOS app for quickly composing and sharing text. Perfect for composing lengthy chat messages in a safe space, away from typing indicators. Use the sharesheet to send off your message when ready!
 
 ## Features
 
