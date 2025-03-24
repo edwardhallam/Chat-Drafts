@@ -5,12 +5,13 @@
 - ✅ Basic app functionality complete
 - ✅ Bundle ID created in App Store Connect
 - ✅ Xcode Cloud setup initiated
+- ✅ Xcode Cloud configuration completed
 
 ## Next Steps
-1. Complete Xcode Cloud setup:
-   - Follow the official guide at [Configuring Your First Xcode Cloud Workflow](https://developer.apple.com/documentation/xcode/configuring-your-first-xcode-cloud-workflow/)
-   - Complete the Xcode Cloud configuration
-   - Set up workflow in Xcode
+1. ~~Complete Xcode Cloud setup:~~
+   - ~~Follow the official guide at [Configuring Your First Xcode Cloud Workflow](https://developer.apple.com/documentation/xcode/configuring-your-first-xcode-cloud-workflow/)~~
+   - ~~Complete the Xcode Cloud configuration~~
+   - ~~Set up workflow in Xcode~~
 
 2. Prepare App Store Assets:
    - Create screenshots for different device sizes
@@ -35,4 +36,4 @@
 - Bundle ID: spicyeddie.chat-drafts
 - Current version: 1.0
 - Build: 1
-- Target iOS: 15.0+ 
+- Target iOS: 18.0+ 
